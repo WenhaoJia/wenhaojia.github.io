@@ -1,12 +1,11 @@
 ---
-permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /talks_about/
-  - /talks_about.html
+title: "Talk 1 on Relevant Topic in Your Field"
+collection: talks
+type: "Talk"
+permalink: /talks/talks_about
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, CA, USA"
 ---
 
-
-- This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
-- This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
