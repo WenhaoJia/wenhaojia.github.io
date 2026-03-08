@@ -27,7 +27,7 @@ author:
   name             : "Wenhao Jia"
   pronouns         : # example: "she/her"  
   bio              : "Xi'an Jiaotong University"
-  location         : "Earth"
+  location         : # "Earth"
   employer         : # "Xi'an Jiaotong University"
   uri              : # URL
   email            : "jiawenhao@stu.xjtu.edu.cn" 
