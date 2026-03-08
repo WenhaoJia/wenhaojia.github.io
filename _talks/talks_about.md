@@ -3,8 +3,8 @@ permalink: /
 title: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /talks_about/
+  - /talks_about.html
 ---
 
 
