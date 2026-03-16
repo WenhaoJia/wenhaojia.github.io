@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - 2025 IEEE Transactions on Sustainable Energy Outstanding Reviewer, Dec 2025. 
-- Doctoral Student Program of the Young S\&T Talents Cultivation Project, Jan 2025.
+- Doctoral Student Program of the Young S&T Talents Cultivation Project, Jan 2025.
 - 2024 IEEE PESGM PCCC Student Research Showcase Distinguished Speaker, Jul 2024.
 - 2022 IEEE Transactions on Smart Grid Best Paper Award, Jan 2023.
 - Gold Prize for Seoul International Invention Fair, Nov 2022.
@@ -73,11 +73,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💬 Talks
 ## Invited Talks
-- *2025.09*, Coordinated Operation of Integrated Electricity and Green Hydrogen Supply Chain Systems, 17th International Conference on New Power System Technology, Hefei, China.
-- *2022.04*, Convex Energy Functions for Natural Gas Systems and Applications, IEEE PES Day 2022 Xi’an Student Association Roundtable Meeting, Xi’an, China.
+- Coordinated Operation of Integrated Electricity and Green Hydrogen Supply Chain Systems, 17th International Conference on New Power System Technology, Hefei, China, Sept 2025.
+- Convex Energy Functions for Natural Gas Systems and Applications, IEEE PES Day 2022 Xi’an Student Association Roundtable Meeting, Xi’an, China, April 2022.
 
 ## Oral Presentation
-- *2024.07*, Benchmark datasets for fluid flow analysis, 2024 IEEE PES General Meeting PCCC Student Research Showcase, Seattle, USA.
+- Benchmark datasets for fluid flow analysis, 2024 IEEE PES General Meeting PCCC Student Research Showcase, Seattle, USA, July 2024.
 
 <!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
