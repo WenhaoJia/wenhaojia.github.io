@@ -64,7 +64,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks and Oral Presentation
+# 💬 Talks
 ## Invited Talks
 - *2025.09*, Coordinated Operation of Integrated Electricity and Green Hydrogen Supply Chain Systems, 17th International Conference on New Power System Technology, Hefei, China.
 - *2022.04*, Convex Energy Functions for Natural Gas Systems and Applications, IEEE PES Day 2022 Xi’an Student Association Roundtable Meeting, Xi’an, China.
