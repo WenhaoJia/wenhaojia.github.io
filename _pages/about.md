@@ -39,10 +39,10 @@ My research interest includes neural machine translation and computer vision. I 
 - <u><b>W. Jia</b></u>, T. Ding, M. Qu, L. Bai, and F. Li, “Conic programming for circuit equations with rational current controlled resistors,” **IEEE Transactions on Circuits and Systems II: Express Briefs**, vol. 68, no. 1, pp. 496–500, 2021.
 
 ## Chinese Journal Papers
-- <u><b>W. Jia</b></u>, T. Ding, M. Qu, J. Bai, Y. He, and T. Chen, “A linear program to nonlinear gas equations in context of energy internet,” Proceedings of the CSEE, vol. 40, no. 24, 2020. (In Chinese)
+- <u><b>W. Jia</b></u>, T. Ding, M. Qu, J. Bai, Y. He, and T. Chen, “A linear program to nonlinear gas equations in context of energy internet,” **Proceedings of the CSEE**, vol. 40, no. 24, 2020. (In Chinese)
 
 ## Conference Papers
-- <u><b>W. Jia</b></u>, T. Ding, C. Mu, F. Song, C. Liang, and C. Chen, “Distributionally robust chance-constrained dispatch for mobile hydrogen energy systems under supply and demand uncertainties,” in 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024, pp. 1–5.
+- <u><b>W. Jia</b></u>, T. Ding, C. Mu, F. Song, C. Liang, and C. Chen, “Distributionally robust chance-constrained dispatch for mobile hydrogen energy systems under supply and demand uncertainties,” in **2024 IEEE Power & Energy Society General Meeting (PESGM)**, 2024, pp. 1–5.
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -64,9 +64,17 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# 💬 Invited Talks and Oral Presentation
+## Invited Talks
+- *2025.09*, Coordinated Operation of Integrated Electricity and Green Hydrogen Supply Chain Systems, 17th International Conference on New Power System Technology, Hefei, China.
+- *2022.04*, Convex Energy Functions for Natural Gas Systems and Applications, IEEE PES Day 2022 Xi’an Student Association Roundtable Meeting, Xi’an, China.
+## Oral Presentation
+- *2024.07*, Benchmark datasets for fluid flow analysis, 2024 IEEE PES General Meeting PCCC Student Research Showcase, Seattle, USA.
+
+<!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
