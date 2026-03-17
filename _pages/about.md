@@ -107,7 +107,8 @@ My research interest includes neural machine translation and computer vision. I 
 - Electrical Engineering
 - Global Energy Interconnection
 
-//- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
+<!--
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
 
 
