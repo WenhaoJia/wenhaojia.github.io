@@ -38,7 +38,6 @@ My research interest includes neural machine translation and computer vision. I 
 1. **W. Jia**, T. Ding, C. Huang, Z. Wang, Q. Zhou, and M. Shahidehpour, “Convex optimization of integrated power-gas energy flow model with applications to probabilistic energy flow,” *IEEE Transactions on Power Systems*, vol. 36, no. 2, pp. 1432–1441, 2021.
 1. **W. Jia**, T. Ding, and M. Shahidehpour, “Second-order cone programming for data-driven fluid and gas energy flow with a tight reformulation,” *IEEE Transactions on Power Systems*, vol. 36, no. 2, pp. 1652–1655, 2021.
 1. **W. Jia**, T. Ding, M. Qu, L. Bai, and F. Li, “Conic programming for circuit equations with rational current controlled resistors,” *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 68, no. 1, pp. 496–500, 2021.
-1. **W. Jia**, T. Ding, M. Qu, L. Bai, and F. Li, “Conic programming for circuit equations with rational current controlled resistors,” *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 68, no. 1, pp. 496–500, 2021.
 
 ## 📖 Chinese Journal Papers
 1. **W. Jia**, T. Ding, M. Qu, J. Bai, Y. He, and T. Chen, “A linear program to nonlinear gas equations in context of energy internet,” *Proceedings of the CSEE*, vol. 40, no. 24, 2020. (In Chinese)
@@ -59,8 +58,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🎖 Honors and Awards
-- 2025 IEEE Transactions on Sustainable Energy Outstanding Reviewer, Dec 2025. 
-- Doctoral Student Program of the Young S&T Talents Cultivation Project, Jan 2025.
+1. 2025 IEEE Transactions on Sustainable Energy Outstanding Reviewer, Dec 2025. 
+1. Doctoral Student Program of the Young S&T Talents Cultivation Project, Jan 2025.
 - 2024 IEEE PESGM PCCC Student Research Showcase Distinguished Speaker, Jul 2024.
 - 2022 IEEE Transactions on Smart Grid Best Paper Award, Jan 2023.
 - Gold Prize for Seoul International Invention Fair, Nov 2022.
@@ -70,16 +69,16 @@ My research interest includes neural machine translation and computer vision. I 
 - Academic Star, Nov 2021.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+1. *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+1. *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Talks
 ## Invited Talks
-- *2025.09*, Coordinated Operation of Integrated Electricity and Green Hydrogen Supply Chain Systems, 17th International Conference on New Power System Technology, Hefei, China.
-- *2022.04*, Convex Energy Functions for Natural Gas Systems and Applications, IEEE PES Day 2022 Xi’an Student Association Roundtable Meeting, Xi’an, China.
+1. *2025.09*, Coordinated Operation of Integrated Electricity and Green Hydrogen Supply Chain Systems, 17th International Conference on New Power System Technology, Hefei, China.
+1. *2022.04*, Convex Energy Functions for Natural Gas Systems and Applications, IEEE PES Day 2022 Xi’an Student Association Roundtable Meeting, Xi’an, China.
 
 ## Oral Presentation
-- *2024.07*, Benchmark datasets for fluid flow analysis, 2024 IEEE PES General Meeting PCCC Student Research Showcase, Seattle, USA.
+1. *2024.07*, Benchmark datasets for fluid flow analysis, 2024 IEEE PES General Meeting PCCC Student Research Showcase, Seattle, USA.
 
 <!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
